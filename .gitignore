@@ -1,0 +1,9 @@
+# Bỏ qua toàn bộ dữ liệu thô và dữ liệu đã sinh ra
+datasets/raw/
+datasets/output/
+
+# Bỏ qua file tạm của Jupyter Notebook và môi trường ảo
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
